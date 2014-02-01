@@ -1,9 +1,9 @@
 /*!
- * bootstrap-groupselect v1.4.3
- * http://silviomoreto.github.io/bootstrap-select/
+ * bootstrap-selectblocks v1.0-SNAPSHOT
+ * https://github.com/cokeSchlumpf/bootstrap-selectblocks
  *
- * Copyright 2013 bootstrap-select
- * Licensed under the Apache 2.0 License
+ * Copyright 2013 Michael Wellner.
+ * Licensed under the MIT License
  */
 
 !function($) {
